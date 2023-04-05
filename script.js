@@ -15,7 +15,7 @@ function togglrMode() {
     // se sem light mode manter normal
     img.setAttribute('src', './assets/avatar.png')
     img.setAttribute("alt", "Foto de Vanderlei com o fundo colorido")
-//
+//ajuste
   }
 
   //if(html.classList.contains('light')) {
